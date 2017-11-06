@@ -1,0 +1,23 @@
+A “generic” cultivar is assumed for each crop. For most crops early-, medium-, and late-maturity cultivars may be selected with the “Variety” dropdown list at the bottom of the screen.  Some crops have limited varietal information.
+
+The general layout of this screen is similar for all crops. Default values are given for each of four options to be used to simulate the growth phases. You can change the values for any of the growth stages based on Growing Degree-Days or Number of Leaves and Stressed or No Stress conditions. You can also mix your selections. Simply click in the radio button next to your choice for each growth stage.
+
+No Stress refers to non-limiting conditions of an environmental factor, and we usually consider the environmental factor to be soil water availability. This option should be selected for irrigated or high rainfall conditions.
+
+Stress refers to the most limiting value of the environmental factor that does not lead to terminal stress (i.e., death of the plant). This option should be selected for most rainfed situations where soil water is often limiting. Because conditions are often between No Stress and Stress options, either the user can estimate which option is closest to the conditions to be simulated and select that option, or change the default values of one of the options to be intermediate between the two extremes.
+
+Within both the No Stress and Stress options, either the GDD Method or Leaf Number Method may be selected.
+
+The default selection for the screen is to use the No Stress option and GDD Method. 
+
+Any combination of the four options within a row may be selected regardless of selections in the other rows.
+
+Several buttons appear at the bottom of the screen:
+
+Back - press this button to return to the previous screen.
+
+Help - press this to access Help on this screen.
+
+Run - press Run when you have made all your selections and are ready to execute the model.
+
+Reset - press this button when you want to revert back to the default values.

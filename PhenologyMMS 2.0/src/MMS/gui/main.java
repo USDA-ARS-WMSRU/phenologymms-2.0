@@ -2719,10 +2719,10 @@ public class main extends javax.swing.JFrame implements ActionListener{
                 //Populating New Planting information
                 PopulateNewPlantingInformation();
 
-                //Get the the Variety Column names, so we can search on it base on that table.
+                //Get the the Variety Column names, so we can search on it based on that table.
                 String column = CropType.get(1).substring(0, CropType.get(1).length()-1);
 
-                //Determinign the GDD Sort Number, so the Variety Drop Down can be of a specific type
+                //Determining the GDD Sort Number, so the Variety Drop Down can be of a specific type
                 int sortNumber = 0;
                 if (sortAll.isSelected())
                     sortNumber = 0;
