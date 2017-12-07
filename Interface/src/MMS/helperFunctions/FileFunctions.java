@@ -1561,7 +1561,7 @@ public class FileFunctions {
             }
 
         }
-        for (int i = 0; i < (16-count-1); i++)
+        for (int i = 0; i < (17-count-1); i++)
             writer.println("GN 0");
        
 
@@ -1872,7 +1872,7 @@ public class FileFunctions {
             }
 
         }
-        for (int i = 0; i < (16-count-1); i++)
+        for (int i = 0; i < (17-count-1); i++)
             writer.println("GN 0");
             
 
@@ -2183,7 +2183,7 @@ public class FileFunctions {
             }
 
         }
-        for (int i = 0; i < (16-count-1); i++)
+        for (int i = 0; i < (17-count-1); i++)
             writer.println("GN 0");
         
 
@@ -2493,7 +2493,7 @@ public class FileFunctions {
             }
 
         }
-        for (int i = 0; i < (16-count-1); i++)
+        for (int i = 0; i < (17-count-1); i++)
             writer.println("GN 0");
             
 
@@ -2813,7 +2813,7 @@ public class FileFunctions {
             }
 
         }
-        for (int i = 0; i < (16-count-1); i++)
+        for (int i = 0; i < (17-count-1); i++)
             writer.println("GN 0");
        
 
@@ -3124,7 +3124,7 @@ public class FileFunctions {
             }
 
         }
-        for (int i = 0; i < (16-count-1); i++)
+        for (int i = 0; i < (17-count-1); i++)
             writer.println("GN 0");
             
 
@@ -3443,7 +3443,7 @@ public class FileFunctions {
             }
 
         }
-        for (int i = 0; i < (16-count-1); i++)
+        for (int i = 0; i < (17-count-1); i++)
             writer.println("GN 0");
        
 
