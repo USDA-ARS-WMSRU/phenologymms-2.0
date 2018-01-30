@@ -6914,6 +6914,7 @@ public class main extends javax.swing.JFrame implements ActionListener{
         
         //Populating CropType on Startup
         loading = true;
+        Collections.sort(CropType);
         Iterator itr = CropType.iterator();
         while (itr.hasNext()){
              try{
