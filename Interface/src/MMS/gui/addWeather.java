@@ -1230,7 +1230,7 @@ public class addWeather extends javax.swing.JFrame {
             boolean rightFile = fileName.endsWith(".txt");
 
             if (fileName.length() > 0) {
-                if (f.getName().endsWith(".wthr") || f.getName().endsWith(".tif") || f.getName().endsWith(".gif") || f.getName().endsWith(".jpeg") || f.getName().endsWith(".jpg") || f.getName().endsWith(".png")){
+                if (f.getName().endsWith(".dat") || f.getName().endsWith(".tif") || f.getName().endsWith(".gif") || f.getName().endsWith(".jpeg") || f.getName().endsWith(".jpg") || f.getName().endsWith(".png")){
                     return true;
                 } else {
                     return false;
