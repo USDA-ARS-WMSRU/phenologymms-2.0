@@ -1,7 +1,7 @@
 CO_Greeley_LIRF
-Latitude=40.4487  Years=1/1/1992-11/21/2017                                                                 
+Latitude=40.4487  Years=1/1/1992-11/21/2017
        Day     Month     Year  Precip     Tmax     Tmin       SolarRad     Cal Year     DOY    SoilTemp5cm 
-      1-31     1-12      1-26     mm     deg C    deg C     Langley's/Day    Year      1-366      deg C    
+      1-31     1-12      1-26     mm     deg C    deg C     Langley's/Day    Year      1-366      deg C
         1        1        1     999.9    999.9    999.9         999.9        1992        1        999.9
         2        1        1     999.9    999.9    999.9         999.9        1992        2        999.9
         3        1        1     999.9    999.9    999.9         999.9        1992        3        999.9
@@ -6058,7 +6058,7 @@ Latitude=40.4487  Years=1/1/1992-11/21/2017
        28        7       17       0.0     34.4     13.9         610.3        2008      210         25.0
        29        7       17       0.0     33.3     13.4         650.2        2008      211         25.1
        30        7       17       0.0     36.3     11.0         681.7        2008      212         11.8
-       31        7       17       0.0     33.2     12.8         676.2        2008      213        999.9Changed soil temp to 999.9. Not likely it is 0.0 in July when day before and after not near 0.0
+       31        7       17       0.0     33.2     12.8         676.2        2008      213        999.9
         1        8       17       0.0     37.2     15.2         675.5        2008      214         29.4
         2        8       17       0.0     38.2     13.4         511.6        2008      215         29.6
         3        8       17       0.0     34.9     15.4         401.4        2008      216         29.5
